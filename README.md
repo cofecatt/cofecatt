@@ -12,7 +12,7 @@ My ![Visitor Count](https://profile-counter.glitch.me/Christmas-Wong/count.svg) 
 - 👯 Currently working in **Fujian, China**
 - 🤔 I love **Reading, playing basketball**
 - 💬 Ask me about Spring, Go and my projects
-- 😄 You may like [My Website](https://www.christmas.wang/),[Blog](https://cofecatt.github.io)
+- 😄 You may like [Blog](https://cofecatt.github.io)
 - ⚡ Fun fact: **LOL, Movie**
 
 # About My Github
