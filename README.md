@@ -7,7 +7,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/cofecatt/count.svg) visito
 
 # I'm Cofecatt <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🔭 I’m currently working on **Yonyou**
 - 🌱 I’m currently learning **Go**
 - 👯 Currently working in **Fujian, China**
 - 🤔 I love **Reading, playing basketball**
